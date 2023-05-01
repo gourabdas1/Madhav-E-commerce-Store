@@ -57,4 +57,4 @@ In this the main objective was to Cleane and  analyze the data properly and get 
 
 ## Conclusion
 
-IN this main focus would be in sales which is pretty good in Maharashtra,Karnataka . They genarate good revenue in March month.But they adult age in womwn category who are doing most sales and increase sales in other states so their main revenue increase with time.
+In this the main focus would be in sales which is pretty good in Maharashtra,Karnataka . They genarate good revenue in March month.But they adult age in womwn category who are doing most sales and increase sales in other states so their main revenue increase with time.
