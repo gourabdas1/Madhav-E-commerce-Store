@@ -26,7 +26,7 @@ At last for better understanding i created a visualization interactive dashboard
 
 ## Conclusion
 
-Above all information and analysis i conclude that main reasonfor attritio is salary,cause employees are not comfotable with that part.Also gender wise 26-35 age male are the most in attrition. 
+Above all information and analysis i conclude that main reason for attritio is salary,cause employees are not comfotable with that part.Also gender wise 26-35 age male are the most in attrition. 
 
 
 
