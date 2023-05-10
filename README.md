@@ -44,7 +44,7 @@ In this the main objective was to analyze the data properly and get an insight o
 This is an e commerce online store so, main focus would be in sales which is pretty good in Maharashtra,MP . They genarate good revenue in November month.But they have some category which is not selling so, they can remove that and focus on most selling caregory.Also target the states where they make best sale.
 
 
-# Vrinra Store
+# Vrinda Store
 
 In this the main objective was to Cleane and  analyze the data properly and get an insight of that.Like from the i analyse the sales of that store , which category they are selling most,method of pament etc.so they cam improve in future.
 
